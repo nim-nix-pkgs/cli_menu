@@ -9,7 +9,7 @@
   
   inputs.src-cli_menu-master.flake = false;
   inputs.src-cli_menu-master.owner = "MnlPhlp";
-  inputs.src-cli_menu-master.ref   = "refs/heads/master";
+  inputs.src-cli_menu-master.ref   = "master";
   inputs.src-cli_menu-master.repo  = "cli_menu";
   inputs.src-cli_menu-master.type  = "github";
   
