@@ -7,37 +7,8 @@
   "license": "MIT",
   "web": "https://github.com/MnlPhlp/cli_menu",
   "refs": [
-    "refs/heads/master",
+    "fatal: unable to access 'https://github.com/MnlPhlp/cli_menu/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
     ""
   ],
-  "heads": [
-    {
-      "name": "cli_menu",
-      "version": "0.2.5",
-      "author": "MnlPhlp",
-      "desc": "A library to create interactive commandline menus without writing boilerplate code.",
-      "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "src",
-      "backend": "c",
-      "ref": "refs/heads/master"
-    }
-  ]
+  "heads": []
 }
